@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.4",
+  "name": "maze",
+  "id": "dfb25d66-a060-489e-8c23-9eedfbdc0922",
+  "isNew": false
+}
